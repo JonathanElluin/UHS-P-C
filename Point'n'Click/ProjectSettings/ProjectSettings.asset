@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-  productGUID: ee729736a446543489de0db1badb2860
+  productGUID: d6e2528d0e0db694d8f08f0b3280a13f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -599,19 +599,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled:
-    UNet: 1
+  cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-<<<<<<< HEAD
-  cloudProjectId: e974ac24-db3c-454f-b3ec-ad2dda91de3e
-  projectName: Point'n'Click
-  organizationId: cole63118
-=======
-  cloudProjectId: 96be772e-77b0-4c04-97c4-6abd9403f110
-  projectName: Point'n'Click (2)
-  organizationId: marchy
->>>>>>> da1bf84984dd0bf5361381256e13b4470b600c42
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
