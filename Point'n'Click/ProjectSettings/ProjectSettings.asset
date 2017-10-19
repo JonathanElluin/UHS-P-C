@@ -603,9 +603,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 7932d515-a41f-4dd4-95ab-34a25f9edaf1
-  projectName: Point'n'Click (1)
-  organizationId: unity_fb9tmy7tdrxpba
+  cloudProjectId: 96be772e-77b0-4c04-97c4-6abd9403f110
+  projectName: Point'n'Click (2)
+  organizationId: marchy
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
