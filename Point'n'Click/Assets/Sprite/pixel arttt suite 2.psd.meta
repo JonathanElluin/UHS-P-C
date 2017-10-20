@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 5f04f9fdcb3923844befad98c3161cf8
 timeCreated: 1508501908
+=======
+guid: 567b78555e6f287468328f8b4b6f002c
+timeCreated: 1508501581
+>>>>>>> a9a34283f6b0425761f3894727a2cf5fad8be13c
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -78,6 +83,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+<<<<<<< HEAD
   - buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -114,6 +120,8 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+=======
+>>>>>>> a9a34283f6b0425761f3894727a2cf5fad8be13c
   spriteSheet:
     serializedVersion: 2
     sprites:
