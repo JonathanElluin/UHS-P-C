@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 2017.2.0f3:3.1.0.0
 StandaloneWindows64
 C:/Program Files/UnityLastVersion/Editor/Data/Managed/UnityEditor.dll
@@ -59,7 +58,3 @@ C:/Users/User/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity
 C:/Users/User/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll
 C:/Program Files/UnityLastVersion/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
 C:/Program Files/UnityLastVersion/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
-=======
-2017.2.0f3:3.3.0.2
-StandaloneWindows64
->>>>>>> 046bd5e16851b1d403157dc272c6602242f14cea
