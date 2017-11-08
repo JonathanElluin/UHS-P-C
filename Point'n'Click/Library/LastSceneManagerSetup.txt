@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Levels/MainMenu.unity
-=======
-- path: Assets/Levels/Move_Personnage.unity
->>>>>>> 91f37203a9ca09dd936a5afd14e937cfc5e733f4
   isLoaded: 1
   isActive: 1
