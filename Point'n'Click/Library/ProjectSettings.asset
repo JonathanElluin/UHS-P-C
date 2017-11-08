@@ -6,17 +6,17 @@ PlayerSettings:
   serializedVersion: 13
 <<<<<<< HEAD
 <<<<<<< HEAD
-  productGUID: 4092e57746d47c74d9fc8c89974686b6
+  productGUID: a3e89bd1888569644a7f5ffe9cac30c5
 =======
 <<<<<<< HEAD
-  productGUID: 5d6c4cc0ecac2134bb24589f1499c49a
+  productGUID: 7cf382692bcb1de46b85f6c4142be7f3
 =======
-  productGUID: a3e89bd1888569644a7f5ffe9cac30c5
->>>>>>> bd81e277362d912e0c7f80fadc342658c612b311
->>>>>>> 7c2efd59f84b602fdc837e43bc24e5ddf3a9b828
+  productGUID: 8018b3844d1e3ce409f710c867d3786d
+>>>>>>> b9deff9427274057280c307c85b28787c89cd629
+>>>>>>> 52cb2470341027f8e8d8f8a55c1bb5b29d07b3cb
 =======
-  productGUID: 693dfbd5925dd75459958f19c3c5d068
->>>>>>> a9a34283f6b0425761f3894727a2cf5fad8be13c
+  productGUID: a09df727582723741b895e2744d442c2
+>>>>>>> 2a9ba618d9bd70cae8e3ea910fd933cea375981c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4

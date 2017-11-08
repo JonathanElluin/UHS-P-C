@@ -1,16 +1,16 @@
 sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
-- path: Assets/Scene/Scene_Test_Florent.unity
+- path: Assets/Test.unity
 =======
 <<<<<<< HEAD
 - path: Assets/Levels/MainMenu.unity
 =======
-- path: Assets/Test.unity
->>>>>>> bd81e277362d912e0c7f80fadc342658c612b311
->>>>>>> 7c2efd59f84b602fdc837e43bc24e5ddf3a9b828
+- path: Assets/Scene/Scene_Florent.unity
+>>>>>>> b9deff9427274057280c307c85b28787c89cd629
+>>>>>>> 52cb2470341027f8e8d8f8a55c1bb5b29d07b3cb
 =======
 - path: Assets/Levels/MainMenu.unity
->>>>>>> a9a34283f6b0425761f3894727a2cf5fad8be13c
+>>>>>>> 2a9ba618d9bd70cae8e3ea910fd933cea375981c
   isLoaded: 1
   isActive: 1
