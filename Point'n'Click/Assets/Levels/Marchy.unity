@@ -225,8 +225,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9121f990969a32f4da28aa8f77de2fd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sprite0: {fileID: 21300006, guid: dc31cb5138d8ac240b2e1159466f2011, type: 3}
-  sprite1: {fileID: 21300000, guid: 77e5ffdad2eb429479bcece8527d6d80, type: 3}
+  sprite0: {fileID: 21300000, guid: 9aa837fabe6de634484c66547e018985, type: 3}
+  sprite1: {fileID: 21300004, guid: 9aa837fabe6de634484c66547e018985, type: 3}
 --- !u!50 &22076701
 Rigidbody2D:
   serializedVersion: 4
@@ -551,8 +551,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9121f990969a32f4da28aa8f77de2fd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sprite0: {fileID: 21300006, guid: dc31cb5138d8ac240b2e1159466f2011, type: 3}
-  sprite1: {fileID: 21300002, guid: 77e5ffdad2eb429479bcece8527d6d80, type: 3}
+  sprite0: {fileID: 21300000, guid: 9aa837fabe6de634484c66547e018985, type: 3}
+  sprite1: {fileID: 21300006, guid: 9aa837fabe6de634484c66547e018985, type: 3}
 --- !u!61 &928784983
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -893,7 +893,7 @@ Prefab:
         type: 2}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300006, guid: dc31cb5138d8ac240b2e1159466f2011,
+      objectReference: {fileID: 21300000, guid: 9aa837fabe6de634484c66547e018985,
         type: 3}
     - target: {fileID: 4720956909620288, guid: b7aad03981d227142b342e4e2772eac3, type: 2}
       propertyPath: m_LocalScale.x

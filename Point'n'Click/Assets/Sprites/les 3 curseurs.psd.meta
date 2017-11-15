@@ -1,11 +1,13 @@
 fileFormatVersion: 2
-guid: 77e5ffdad2eb429479bcece8527d6d80
-timeCreated: 1510752030
+guid: 9aa837fabe6de634484c66547e018985
+timeCreated: 1510752385
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: curseur (2)_0
-    21300002: curseur (2)_1
+    21300000: les 3 curseurs_0
+    21300002: les 3 curseurs_1
+    21300004: les 3 curseurs_2
+    21300006: les 3 curseurs_3
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -89,13 +91,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: curseur (2)_0
+      name: les 3 curseurs_0
       rect:
         serializedVersion: 2
-        x: 33
-        y: 463
-        width: 220
-        height: 478
+        x: 120
+        y: 400
+        width: 144
+        height: 216
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -103,13 +105,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: curseur (2)_1
+      name: les 3 curseurs_1
       rect:
         serializedVersion: 2
-        x: 395
-        y: 473
-        width: 166
-        height: 348
+        x: 262
+        y: 597
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: les 3 curseurs_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 385
+        width: 97
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: les 3 curseurs_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 390
+        width: 100
+        height: 209
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
