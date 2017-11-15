@@ -5,6 +5,7 @@ using UnityEngine;
 public class ClickManager : MonoBehaviour
 {
 
+    float smooth = 2.0f;
     public Sprite sprite0; // sprite de base 
     private SpriteRenderer spriteRenderer0;
     public Sprite sprite1; //sprite qui change en fonction du choix 
@@ -17,7 +18,6 @@ public class ClickManager : MonoBehaviour
         {
             spriteRenderer1 = In.gameObject.GetComponent<SpriteRenderer>(); // recup le sprite
             spriteRenderer1.sprite = sprite1; //Change le sprite du curseur 
-
 
         }
 
@@ -38,4 +38,5 @@ public class ClickManager : MonoBehaviour
 
 }
 
-     
+
+
