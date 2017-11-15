@@ -4,7 +4,43 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
+<<<<<<< HEAD
   productGUID: d54df74bfd8e6784ba20e8b8936adace
+=======
+<<<<<<< HEAD
+  productGUID: 154998ee82b9d5441bec9732f390df17
+=======
+<<<<<<< HEAD
+  productGUID: bfa05a9e35b03ed46b1b2a6889e5f9f5
+=======
+<<<<<<< HEAD
+  productGUID: 4f90d1a0b1ece0247ad3b088d0c4bcd4
+=======
+<<<<<<< HEAD
+  productGUID: 114b9afb91345b7418bef416fe02ae9b
+=======
+<<<<<<< HEAD
+  productGUID: 8986e1158515e2042baafc88c6624def
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  productGUID: a3e89bd1888569644a7f5ffe9cac30c5
+=======
+<<<<<<< HEAD
+  productGUID: 7cf382692bcb1de46b85f6c4142be7f3
+=======
+  productGUID: 8018b3844d1e3ce409f710c867d3786d
+>>>>>>> b9deff9427274057280c307c85b28787c89cd629
+>>>>>>> 52cb2470341027f8e8d8f8a55c1bb5b29d07b3cb
+=======
+  productGUID: a09df727582723741b895e2744d442c2
+>>>>>>> 2a9ba618d9bd70cae8e3ea910fd933cea375981c
+>>>>>>> 1b0482dee8a6cd0728a9b55490627c009bafbfc0
+>>>>>>> 7a1c57d3ec6039ab4fdd97dbee00f5b0d2166cbf
+>>>>>>> 91f37203a9ca09dd936a5afd14e937cfc5e733f4
+>>>>>>> 3e9acebcdd42aacf93e2d8385b32ab07493df4dc
+>>>>>>> 3f956cc4460c3c4316d8a18e9f6d170a35cc3e1d
+>>>>>>> master
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
