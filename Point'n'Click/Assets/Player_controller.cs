@@ -9,6 +9,7 @@ public class Player_controller : MonoBehaviour {
     public GameObject Self;
     private int i = 0;
     public float Speed;
+    public static bool startMoving;
 	// Use this for initialization
 	void Start () {
         playerAnimator = GetComponent<Animator>();
@@ -17,7 +18,7 @@ public class Player_controller : MonoBehaviour {
 
     private void Update()
     {
-        if(Time.realtimeSinceStartup <= 8 && Time.realtimeSinceStartup >= 3)
+       if(startMoving)
         {
             playerAnimator.SetInteger("Speed", 1);
             spriteRenderer.flipX = true;
@@ -28,7 +29,7 @@ public class Player_controller : MonoBehaviour {
             playerAnimator.SetInteger("Speed", 0);
         }
         
-        /*if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow)) //droite
+      /*  if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow)) //droite
         {
             playerAnimator.SetInteger("Speed", 1);
 
