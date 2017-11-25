@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Levels/Marchy.unity
+- path: Assets/Levels/StorySelect2.unity
   isLoaded: 1
   isActive: 1
