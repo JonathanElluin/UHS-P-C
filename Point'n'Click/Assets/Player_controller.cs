@@ -29,7 +29,7 @@ public class Player_controller : MonoBehaviour {
             playerAnimator.SetInteger("Speed", 0);
         }
         
-      /*  if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow)) //droite
+    /*   if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow)) //droite
         {
             playerAnimator.SetInteger("Speed", 1);
 
@@ -39,7 +39,7 @@ public class Player_controller : MonoBehaviour {
                 {
                     spriteRenderer.flipX = false;
                 }
-                transform.Translate(Vector2.right * Speed* Time.deltaTime);
+                transform.Translate(Vector2.right * Speed * Time.deltaTime);
             }
 
             if (Input.GetKey(KeyCode.LeftArrow)) //gauche
