@@ -346,8 +346,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
 =======
   m_LocalPosition: {x: 0, y: 0, z: 70}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.02037383, y: 0.02037383, z: 0.02037383}
 >>>>>>> 71d114925b37e831239e0cb394708a86d6568164
+=======
+  m_LocalScale: {x: 0.0141009055, y: 0.0141009055, z: 0.0141009055}
+>>>>>>> b4ab43439accdacc6f79a291a8b9ca2b9a060cfc
   m_Children:
   - {fileID: 1378437413}
   - {fileID: 1883876759}
