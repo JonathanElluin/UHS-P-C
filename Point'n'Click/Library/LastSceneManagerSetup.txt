@@ -1,8 +1,7 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Levels/StorySelect2.unity
-=======
 - path: Assets/Levels/Move_Personnage.unity
->>>>>>> Branch-Florent
   isLoaded: 1
   isActive: 1
+- path: Assets/Levels/Marchy.unity
+  isLoaded: 1
+  isActive: 0

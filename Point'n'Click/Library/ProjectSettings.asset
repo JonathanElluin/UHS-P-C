@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-<<<<<<< HEAD
-  productGUID: 68d9dc00a145e6e488e784fe2bed421a
-=======
-  productGUID: 3d8510c723b9928408922657a735e63d
->>>>>>> Branch-Florent
+  productGUID: a2eea49122ec97744bdbf1341293c92b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
