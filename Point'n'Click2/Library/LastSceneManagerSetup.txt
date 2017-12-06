@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Levels/Move_Personnage.unity
+  isLoaded: 1
+  isActive: 1
