@@ -225,7 +225,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\Player_controller.cs" />
     <Compile Include="Assets\RoutineScript.cs" />
     <Compile Include="Assets\Script\DialogManager.cs" />
