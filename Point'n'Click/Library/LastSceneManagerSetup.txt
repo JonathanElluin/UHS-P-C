@@ -1,4 +1,20 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Levels/Marchy.unity
   isLoaded: 1
   isActive: 1
+=======
+- path: Assets/Levels/StorySelect2.unity
+  isLoaded: 1
+  isActive: 1
+=======
+<<<<<<< HEAD
+sceneSetups:
+- path: Assets/Levels/Move_Personnage.unity
+  isLoaded: 1
+  isActive: 1
+=======
+sceneSetups: []
+>>>>>>> a0d8d1bcf8327794c82eff96cdeea3f4d3774457
+>>>>>>> 18364c016c8abfb43e78c14185c07edb213a12da
+>>>>>>> 34db6f8756d5bce5b72a0aa8e36c62a3e5f943d8
