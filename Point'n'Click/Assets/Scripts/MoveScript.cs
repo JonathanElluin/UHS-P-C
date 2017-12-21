@@ -32,11 +32,6 @@ public class MoveScript : MonoBehaviour
             transform.Translate(Vector2.down * 4f * Time.deltaTime);
         }
 
-        if (Input.GetKey(KeyCode.Space))    //Espace
-        {
-
-        }
-
     }
 
 }
